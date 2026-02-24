@@ -1,4 +1,3 @@
-
 # MoralisStream: Synchronized Realtime Data Pipelines fuel Enterprise Decision-Making within a Scalable, High-Performance MoralisStream Ecosystem Implementation
 > Advanced python solution leveraging modern architecture patterns and cutting-edge technology.
 
